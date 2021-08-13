@@ -20,6 +20,12 @@ Features
 * 4 error correction levels (QR Code Model 2 standard)
 * Customizable border thickness
 
+
+
+https://user-images.githubusercontent.com/3649998/129322688-2f935abb-aa07-446d-895a-25694b15921e.mp4
+
+
+
 Installation
 ------------
 
